@@ -1,0 +1,21 @@
+body{
+	background-color: green;
+}
+
+#button{
+	display: block;
+	margin:45vh auto auto;
+	outline: none;
+	color:#212529;
+	width: 120px;
+	height:45px;
+	font-size: 20px;
+	cursor: pointer;
+	background-color:transparent;
+	border: 1px solid grey;
+	border-radius: 10px;
+}
+#button:hover{
+	background-color: grey;
+	color: #fff;
+}
