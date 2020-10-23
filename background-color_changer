@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Color_Changer</title>
+	<link href="project1.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<button id="button" onclick="changeBackground()">Click me!</button>
+	<script src="project1.js"></script>
+</body>
+</html>
